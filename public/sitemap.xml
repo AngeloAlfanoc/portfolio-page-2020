@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://www.methods.digital</loc>
+        <xhtml:link hreflang="nl" href="https://www.methods.digital"/>
+    </url>
+        <url>
+        <loc>https://www.methods.digital/projects</loc>
+        <xhtml:link hreflang="nl" href="https://www.methods.digital/projects"/>
+    </url>
+         <url>
+        <loc>https://www.methods.digital/contact</loc>
+        <xhtml:link hreflang="nl" href="https://www.methods.digital/contact"/>
+    </url>
+</urlset>

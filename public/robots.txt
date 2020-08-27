@@ -1,0 +1,3 @@
+# https://www.methods.digital/sitemap.xml
+User-agent: *
+Disallow:

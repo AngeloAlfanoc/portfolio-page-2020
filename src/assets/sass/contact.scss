@@ -1,0 +1,25 @@
+.contact {
+    background-color: white;
+    main {
+        padding-top: 50px;
+     
+        form{
+            input{
+                border:0;
+                border-bottom: 1px solid #111;
+                border-radius: 0;
+             
+                &:nth-child(1) {
+                      margin-right: 5px; 
+                }
+            }
+            textarea{
+                border:0;
+                border-bottom: 1px solid #111;
+                border-radius: 0;
+                margin-right: 5px;
+                resize: none;
+            }
+        }
+    }
+}
